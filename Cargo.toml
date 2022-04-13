@@ -27,7 +27,7 @@ plane-1 = []
 [dependencies]
 rust-lzma = "0.5.1"
 bit_field = "0.10.1"
-sdl2 = "0.34.4"
+sdl2 = "0.35.2"
 
 [build-dependencies]
 rust-lzma = "0.5.1"
